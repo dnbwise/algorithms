@@ -3,7 +3,8 @@ Studies in category-based induction typically follow a paradigm introduced by Ri
 
 Zebras have sesamoid bones
 Hippos have sesamoid bones
---------------------------
+
+-------------------------------
 All mammals have sesamoid bones
 
 The statements above the line indicate the premises of the argument, which are assumed to be true. The task is to assess the likelihood that the category below the line, the conclusion, has the property.
