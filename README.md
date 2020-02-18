@@ -11,3 +11,10 @@ The statements above the line indicate the premises of the argument, which are a
 Sloman (1993; http://matt.colorado.edu/teaching/categories/s93.pdf) introduced the Feature-based induction model in an attempt to explain the mental phenomena related to this task.
 
 FBIM3 is an implementation of the FBIM for MATLAB.
+
+results.txt includes some example results; for instance, for the syllogism:
+
+Leopards have property X<br />
+<ins>Sheeps have property X</ins><br />
+
+"Monkies have property X" is rated substantially higher (.81), than "Ants have property X" (.31).
