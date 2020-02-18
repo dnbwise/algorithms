@@ -1,0 +1,101 @@
+----------
+tuple = 
+ Leopard
+ Sheep
+
+Grasshopper 0.43
+Ant 0.31
+Bee 0.34
+Seal 0.73
+Dolphin 0.69
+Monkey 0.81
+Alligator 0.71
+Iguana 0.57
+Frog 0.54
+Python 0.59
+Jellyfish 0.37
+Octopus 0.50
+Finch 0.56
+Ostrich 0.58
+Seagull 0.55
+Owl 0.57
+Penguin 0.62
+Eagle 0.58
+Dragonfly 0.51
+Bat 0.76
+----------
+tuple = 
+ Leopard
+ Ant
+
+Grasshopper 0.73
+Bee 0.62
+Sheep 0.79
+Seal 0.77
+Dolphin 0.72
+Monkey 0.84
+Alligator 0.77
+Iguana 0.66
+Frog 0.64
+Python 0.67
+Jellyfish 0.52
+Octopus 0.58
+Finch 0.65
+Ostrich 0.59
+Seagull 0.63
+Owl 0.64
+Penguin 0.68
+Eagle 0.66
+Dragonfly 0.76
+Bat 0.84
+
+----------
+tuple = 
+ Leopard
+ Monkey
+
+Grasshopper 0.43
+Ant 0.30
+Bee 0.35
+Sheep 0.75
+Seal 0.71
+Dolphin 0.68
+Alligator 0.71
+Iguana 0.56
+Frog 0.54
+Python 0.58
+Jellyfish 0.35
+Octopus 0.50
+Finch 0.56
+Ostrich 0.58
+Seagull 0.55
+Owl 0.58
+Penguin 0.60
+Eagle 0.59
+Dragonfly 0.51
+Bat 0.76
+----------
+tuple = 
+ Leopard
+ Dolphin
+
+Grasshopper 0.43
+Ant 0.32
+Bee 0.33
+Sheep 0.76
+Seal 0.77
+Monkey 0.81
+Alligator 0.73
+Iguana 0.56
+Frog 0.55
+Python 0.60
+Jellyfish 0.44
+Octopus 0.59
+Finch 0.55
+Ostrich 0.58
+Seagull 0.56
+Owl 0.56
+Penguin 0.63
+Eagle 0.59
+Dragonfly 0.51
+Bat 0.76
